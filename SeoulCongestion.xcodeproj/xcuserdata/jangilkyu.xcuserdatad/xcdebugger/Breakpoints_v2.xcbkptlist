@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E8C89A6D-61A2-4352-8EE2-1758077FC4FC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAEEBB15-3F83-4085-B9B0-42575C97027F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SeoulCongestion/Presentation/Main/View/CustomView/DropDownView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "setUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC771FCA-2B2B-49F8-AB52-0AECA6F34B63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SeoulCongestion/Presentation/Main/MainController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "setUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC771FCA-2B2B-49F8-AB52-0AECA6F34B63 - 980976ddff3e7664"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (SnapKit.ConstraintMaker) -&gt; () in SeoulCongestion.MainController.setUI() -&gt; ()"
+                  moduleName = "SeoulCongestion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jangilkyu/Desktop/0ganSeoul_IOS/SeoulCongestion/SeoulCongestion/Presentation/Main/MainController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "FC771FCA-2B2B-49F8-AB52-0AECA6F34B63 - 20e6d75b90686d41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SeoulCongestion.MainController.setUI() -&gt; ()"
+                  moduleName = "SeoulCongestion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jangilkyu/Desktop/0ganSeoul_IOS/SeoulCongestion/SeoulCongestion/Presentation/Main/MainController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "922">
+               </Location>
+               <Location
+                  uuid = "FC771FCA-2B2B-49F8-AB52-0AECA6F34B63 - 980976ddff3e7785"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (SnapKit.ConstraintMaker) -&gt; () in SeoulCongestion.MainController.setUI() -&gt; ()"
+                  moduleName = "SeoulCongestion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jangilkyu/Desktop/0ganSeoul_IOS/SeoulCongestion/SeoulCongestion/Presentation/Main/MainController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "77">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A49D118-0C5A-4098-94AC-F1B10FDCE223"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SeoulCongestion/Presentation/Main/View/Cell/CategoryCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8980E671-C7B4-413B-AE4B-ECCAC7A58790"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SeoulCongestion/Presentation/Main/View/Cell/CategoryCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "nameLabel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8980E671-C7B4-413B-AE4B-ECCAC7A58790 - d0d7a39138cbf317"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UILabel in variable initialization expression of SeoulCongestion.CategoryCell.nameLabel : __C.UILabel"
+                  moduleName = "SeoulCongestion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jangilkyu/Desktop/0ganSeoul_IOS/SeoulCongestion/SeoulCongestion/Presentation/Main/View/Cell/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "8980E671-C7B4-413B-AE4B-ECCAC7A58790 - 852aa013b0784b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SeoulCongestion.CategoryCell.nameLabel.getter : __C.UILabel"
+                  moduleName = "SeoulCongestion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jangilkyu/Desktop/0ganSeoul_IOS/SeoulCongestion/SeoulCongestion/Presentation/Main/View/Cell/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8980E671-C7B4-413B-AE4B-ECCAC7A58790 - d26e3283c8bffc99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SeoulCongestion.CategoryCell.init(frame: __C.CGRect) -&gt; SeoulCongestion.CategoryCell"
+                  moduleName = "SeoulCongestion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jangilkyu/Desktop/0ganSeoul_IOS/SeoulCongestion/SeoulCongestion/Presentation/Main/View/Cell/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "8980E671-C7B4-413B-AE4B-ECCAC7A58790 - 4cf20186ed8255bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SeoulCongestion.CategoryCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SeoulCongestion.CategoryCell&gt;"
+                  moduleName = "SeoulCongestion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jangilkyu/Desktop/0ganSeoul_IOS/SeoulCongestion/SeoulCongestion/Presentation/Main/View/Cell/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "65">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
